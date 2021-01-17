@@ -7,6 +7,7 @@
 3. [Grading Breakdown](#grading-breakdown)
 4. [Rules](#rules)
 5. [Submission Details](#submission-details)
+6. [My work]
 
 ## Assignment
 This assignment designed to help you set up your development environment. You will build a simple card using only HTML/CSS. The card will look like [this example](http://i.imgur.com/aeKrEga.png) except with your own details.
@@ -64,3 +65,7 @@ git remote add origin git@gitlab.com:<your-gitlab-username>/mp0.git
 4. `.gitlab-ci.yml` file automatically makes a Gitlab CI pipeline run to deploy your code. After the pipeline finishes, your site should be live at `https://<your-gitlab-username>.gitlab.io/mp0`. **It may take up to 10-30 minutes for the site to go live after the first deployment.**
 5. Invite `uiucwp` as a collaborator. This should be as a **reporter**, not as a *guest*, otherwise we can't see your code.
 6. Fill out and submit the form [here](https://forms.gle/XqT7u4C1qd8zqGgf9).
+
+## My work
+Here's what my final work looks like (I tried to keep it as close to the sample image as possible):
+![alt text](https://github.com/kalpitf1/cs498rkmp0/src/assets/my_work.png?raw=true)
