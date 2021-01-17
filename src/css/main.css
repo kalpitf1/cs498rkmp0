@@ -1,1 +1,45 @@
-/* Your CSS here. */
+.outer {
+  width: 600px;
+  height: 500px; 
+  background-color: #656565; 
+  margin: 0 auto;
+    padding: 10px;
+}
+.face_boundary {
+  width: 150px;
+  height: 150px; 
+  background-color: #B6C4C9; 
+  margin: 0 auto;
+    
+}
+.face {
+  width: 150px;
+  height: 150px;
+    
+}
+.text1 {
+  text-align: center;
+  color: white;
+}
+.texti {
+  text-align: center;
+  font-style: italic;
+  color: white;
+}
+.link{
+    text-align: center;
+    font-weight: bold;
+}
+a:link, a:visited {
+    text-align: center;
+    text-decoration: none;
+    color: #4e1d87;
+}
+a:hover, a:active {
+    text-align: center;
+    text-decoration: underline;
+    color: #4e1d87;
+}
+.textp{
+    color: white;
+}
