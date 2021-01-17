@@ -7,7 +7,7 @@
 3. [Grading Breakdown](#grading-breakdown)
 4. [Rules](#rules)
 5. [Submission Details](#submission-details)
-6. [My work]
+6. [My work](#my-work)
 
 ## Assignment
 This assignment designed to help you set up your development environment. You will build a simple card using only HTML/CSS. The card will look like [this example](http://i.imgur.com/aeKrEga.png) except with your own details.
@@ -68,4 +68,4 @@ git remote add origin git@gitlab.com:<your-gitlab-username>/mp0.git
 
 ## My work
 Here's what my final work looks like (I tried to keep it as close to the sample image as possible):
-![alt text](https://github.com/kalpitf1/cs498rkmp0/src/assets/my_work.png?raw=true)
+![alt text](https://github.com/kalpitf1/cs498rkmp0/tree/master/src/assets/my_work.png?raw=true)
