@@ -68,4 +68,4 @@ git remote add origin git@gitlab.com:<your-gitlab-username>/mp0.git
 
 ## My work
 Here's what my final work looks like (I tried to keep it as close to the sample image as possible):
-![alt text](https://github.com/kalpitf1/cs498rkmp0/tree/master/src/assets/my_work.png?raw=true)
+![alt text](https://raw.githubusercontent.com/kalpitf1/cs498rkmp0/master/src/assets/my_work.png)
